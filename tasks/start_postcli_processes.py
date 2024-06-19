@@ -5,7 +5,7 @@ import logging
 import logs
 from utils import query_postcli_done_files_count, create_postcli_file_threads, delete_last_created_post_file, \
     get_files_to_create_details, check_update_go_spacemesh, check_permissions, check_reserved_space, get_gpu_ratios, \
-    subprocess_values_as_string
+    subprocess_values_as_string, CommandFailed
 import psutil
 
 
@@ -21,6 +21,7 @@ def start_postcli_processes(args):
     gpu_ratios = get_gpu_ratios(args['gpu_ratios_file_path'])
     for file_num_units_count in files_to_create_details.values():
         files_left = query_postcli_done_files_count(file_num_units_count)
+
         if files_left == 0:
             continue
         else:
@@ -55,6 +56,7 @@ def start_postcli_processes(args):
                 if psutil.Process(process_pid).status() == 'zombie':
                     if are_processes_finished():
                         running_processes_pids = []
-                        break
+            if not running_processes_pids:
+                break
 
     LOG.info("Finished writing all postcli files to HDDs.")

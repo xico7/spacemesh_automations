@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a1aeb942-6745-42fe-9d69-3c4bfd9b474f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/argparse_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/argparse_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py.verbose.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.verbose.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/start_postcli_processes.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/start_postcli_processes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
   "keyToString": {
     "Python.get_gpu_ratios.executor": "Debug",
     "Python.scratch.executor": "Debug",
-    "Python.start-postcli-processes.executor": "Run",
+    "Python.start-postcli-processes.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -53,7 +54,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.get_gpu_ratios">
+  <component name="RunManager" selected="Python.start-postcli-processes">
     <configuration name="get_gpu_ratios" type="PythonConfigurationType" factoryName="Python">
       <module name="spacemesh_automations" />
       <option name="ENV_FILES" value="" />
@@ -155,7 +156,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/utils.py</url>
-          <line>160</line>
+          <line>167</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -172,6 +173,16 @@
           <url>file://$PROJECT_DIR$/tasks/get_gpu_ratios.py</url>
           <line>42</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tasks/start_postcli_processes.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tasks/start_postcli_processes.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

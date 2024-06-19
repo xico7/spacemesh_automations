@@ -49,7 +49,14 @@ def get_files_to_create_details(file_path):
 
 def query_postcli_done_files_count(file_num_units_count):
     files_left = 0
-    files = run_shell_command(f"ls {file_num_units_count['hdd_path']}/postdata/spacemesh_post_{file_num_units_count['hdd_file_number']}").split('\n')
+    try:
+        files = run_shell_command(
+            f"ls {file_num_units_count['hdd_path']}/postdata/spacemesh_post_{file_num_units_count['hdd_file_number']}").split('\n')
+    except CommandFailed as e:
+        if "No such file or directory" in e.args[0]:
+            return file_num_units_count['num_units'] * 32
+        else:
+            raise
 
     for i in range(file_num_units_count['num_units'] * 32):
         if not f'postdata_{i}.bin' in files:
