@@ -5,7 +5,7 @@ import logging
 import logs
 from utils import query_postcli_done_files_count, create_postcli_file_threads, delete_last_created_post_file, \
     get_files_to_create_details, check_update_go_spacemesh, check_permissions, check_reserved_space, get_gpu_ratios, \
-    subprocess_values_as_string, CommandFailed
+    subprocess_values_as_string
 import psutil
 
 
