@@ -23,6 +23,8 @@ def add_tasks_subparsers(parent_parser, tasks):
     subparser.choices['get-gpu-ratios'].add_argument("--dir-path-to-write-ratios", type=str, required=True,
                                                      help="Path where ratios will be stored.")
 
+    subparser.choices['create-postcli-process-file'].add_argument("--gpu-ratios-file-path", type=str,
+                                                              help="Path where gpu ratios are stored.")
     subparser.choices['create-postcli-process-file'].add_argument("--hdds-filesystem-drive-letters", type=str, required=True,
                                                               help="Filesystem drives to scan, "
                                                                    "separated by ',', i.e. '/dev/sda2, /dev/sdb2'.")
@@ -39,8 +41,6 @@ def add_tasks_subparsers(parent_parser, tasks):
                                                               help="Path of the file where hdd num units details are stored.")
     subparser.choices['start-postcli-processes'].add_argument("--postcli-executable-dir", type=str,
                                                               help="Path where postcli is stored.")
-    subparser.choices['start-postcli-processes'].add_argument("--gpu-ratios-file-path", type=str,
-                                                              help="Path where gpu ratios are stored.")
 
 class InvalidArgumentsProvided(Exception): pass
 

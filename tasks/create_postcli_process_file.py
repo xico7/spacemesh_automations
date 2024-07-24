@@ -29,6 +29,8 @@ def create_postcli_process_file(args):
             raise InvalidDiskProvided(err_msg)
         disk_letters_space[disk] = float(left_disk_space.replace('T', '').replace(',', '.'))
 
+    with open(args['gpu_ratios_file_path']) as gpu_f:
+        gpu_ratios = gpu_f.read().split('\n')[1:-1]
     with open(args['write_postfile_details_file_path'], 'w') as f:
         f.write("file_path,num_units,hdd_file_count\n")
         for disk_letter, left_disk_space in disk_letters_space.items():

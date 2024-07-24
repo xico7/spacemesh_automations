@@ -5,8 +5,6 @@ from argparse_func import get_argparse_execute_functions
 logs.setup_logs(verbosity=[logging.INFO, logging.INFO - 5, logging.DEBUG, logging.VERBOSE][:4 + 1][-1])
 LOG = logging.getLogger(logs.LOG_BASE_NAME + '.' + __name__)
 
-# TODO: Windows compatibility
-
 
 def main():
     LOG.info("Starting Execution")

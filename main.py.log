@@ -10289,3 +10289,388 @@ Saving to: ‘go-spacemesh-v1.5.7-linux-amd64.zip.3’
 2024-07-24 13:15:25,180 [INFO ] ? -> ?() Latest version detected, no need to update.
 2024-07-24 13:15:25,584 [INFO ] ? -> ?() Started to create postcli file with pid '9068'.
 2024-07-24 13:15:25,587 [INFO ] ? -> ?() Started to create postcli file with pid '9072'.
+2024-07-24 14:38:23,951 [INFO ] ? -> ?() Starting Execution
+2024-07-24 14:38:24,054 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:38:24,058 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:38:24,061 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:38:24,064 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:38:24,067 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:38:24,069 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:38:24,072 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:38:24,075 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:38:24,078 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 14:38:24,588 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 14:38:24,754 [INFO ] ? -> ?() Started to create postcli file with pid '12174'.
+2024-07-24 14:38:24,994 [INFO ] ? -> ?() Started to create postcli file with pid '12217'.
+2024-07-24 14:39:46,049 [INFO ] ? -> ?() Starting Execution
+2024-07-24 14:39:46,140 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:39:46,144 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:39:46,149 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:39:46,152 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:39:46,154 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:39:46,157 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:39:46,160 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:39:46,162 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:39:46,165 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 14:39:46,838 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 14:39:46,850 [INFO ] ? -> ?() Starting spacemesh node..
+2024-07-24 14:42:07,078 [INFO ] ? -> ?() Started to create postcli file with pid '12614'.
+2024-07-24 14:42:07,080 [INFO ] ? -> ?() Started to create postcli file with pid '12618'.
+2024-07-24 14:54:10,192 [INFO ] ? -> ?() Starting Execution
+2024-07-24 14:54:10,330 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:54:10,335 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:54:10,338 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:54:10,341 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:54:10,344 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:54:10,347 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:54:10,350 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:54:10,353 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:54:10,357 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 14:54:11,095 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 14:54:46,423 [ERROR] ? -> ?() Command './postcli -printProviders' failed, error message -> '/bin/sh: 1: ./postcli: not found
+'.
+2024-07-24 14:55:00,647 [ERROR] ? -> ?() Command './postcli -printProviders' failed, error message -> '/bin/sh: 1: ./postcli: not found
+'.
+2024-07-24 14:59:08,056 [INFO ] ? -> ?() Starting Execution
+2024-07-24 14:59:08,192 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:59:08,196 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 14:59:08,199 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:59:08,202 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 14:59:08,205 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:59:08,208 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 14:59:08,211 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:59:08,214 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 14:59:08,218 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 14:59:08,932 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:05:09,509 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:05:36,819 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:05:36,963 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:05:36,967 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:05:36,971 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:05:36,973 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:05:36,976 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:05:36,979 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:05:36,982 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:05:36,985 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:05:36,989 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:05:37,623 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:09:00,861 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:09:01,055 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:09:01,059 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:09:01,062 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:09:01,066 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:09:01,070 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:09:01,074 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:09:01,078 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:09:01,082 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:09:01,086 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:09:01,790 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:11:28,047 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:11:28,184 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:11:28,188 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:11:28,192 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:11:28,195 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:11:28,198 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:11:28,201 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:11:28,204 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:11:28,207 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:11:28,211 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:11:28,968 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:11:47,288 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:11:47,425 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:11:47,430 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:11:47,433 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:11:47,437 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:11:47,440 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:11:47,443 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:11:47,446 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:11:47,449 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:11:47,452 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:11:47,705 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:11:56,853 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:11:56,994 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:11:56,999 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:11:57,002 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:11:57,005 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:11:57,008 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:11:57,011 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:11:57,014 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:11:57,018 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:11:57,022 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:11:57,272 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:26:36,397 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:26:36,595 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:26:36,600 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:26:36,604 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:26:36,608 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:26:36,613 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:26:36,617 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:26:36,622 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:26:36,627 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:26:36,632 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:26:37,408 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:26:45,690 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:26:45,698 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:26:45,703 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 15:26:45,709 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 15:27:53,430 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:27:53,573 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:27:53,578 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:27:53,581 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:27:53,585 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:27:53,588 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:27:53,591 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:27:53,595 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:27:53,598 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:27:53,602 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:27:54,237 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:28:35,251 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:28:35,393 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:28:35,396 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:28:35,400 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:28:35,403 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:28:35,406 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:28:35,410 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:28:35,413 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:28:35,416 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:28:35,420 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:28:35,970 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:28:36,066 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:28:36,071 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:28:36,076 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 15:28:36,080 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 15:28:36,084 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:28:51,593 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:28:51,728 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:28:51,732 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:28:51,735 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:28:51,739 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:28:51,741 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:28:51,745 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:28:51,748 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:28:51,751 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:28:51,755 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:28:52,146 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:29:23,242 [INFO ] ? -> ?() Starting Execution
+2024-07-24 15:29:23,401 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:29:23,404 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 15:29:23,407 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:29:23,411 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 15:29:23,414 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:29:23,417 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 15:29:23,420 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:29:23,423 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 15:29:23,427 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 15:29:23,958 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 15:29:24,157 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:29:24,166 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 15:29:24,211 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:29:24,224 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 15:29:24,230 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 15:29:24,236 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:18:01,349 [INFO ] ? -> ?() Starting Execution
+2024-07-24 16:18:01,490 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:18:01,494 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:18:01,497 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:18:01,501 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:18:01,504 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:18:01,507 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:18:01,510 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:18:01,513 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:18:01,517 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 16:18:02,214 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 16:18:02,297 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:18:02,302 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:18:02,307 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:18:02,312 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:18:02,316 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:18:02,320 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:21:54,355 [INFO ] ? -> ?() Starting Execution
+2024-07-24 16:21:54,516 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:21:54,520 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:21:54,524 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:21:54,528 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:21:54,531 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:21:54,534 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:21:54,538 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:21:54,541 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:21:54,544 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 16:21:55,256 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 16:21:55,341 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:21:55,346 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:21:55,352 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:21:55,358 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:21:55,362 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:21:55,366 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:22:01,969 [INFO ] ? -> ?() Starting Execution
+2024-07-24 16:22:02,109 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:22:02,113 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:22:02,116 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:22:02,119 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:22:02,122 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:22:02,126 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:22:02,129 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:22:02,132 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:22:02,135 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 16:22:02,355 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 16:22:02,436 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:22:02,440 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:22:02,445 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:22:02,449 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:22:02,453 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:22:02,458 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:22:19,620 [INFO ] ? -> ?() Starting spacemesh node..
+2024-07-24 16:29:31,688 [INFO ] ? -> ?() Starting Execution
+2024-07-24 16:29:38,219 [INFO ] ? -> ?() Starting Execution
+2024-07-24 16:29:38,360 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:29:38,364 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:29:38,367 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:29:38,370 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:29:38,374 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:29:38,376 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:29:38,379 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:29:38,382 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:29:38,386 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 16:29:39,027 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 16:29:39,108 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:29:39,113 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:29:39,117 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:29:39,122 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:29:39,127 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:29:39,131 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:29:43,365 [INFO ] ? -> ?() Starting spacemesh node..
+2024-07-24 16:35:01,763 [INFO ] ? -> ?() Starting Execution
+2024-07-24 16:35:01,902 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:35:01,906 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:35:01,909 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:35:01,912 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:35:01,916 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:35:01,919 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:35:01,922 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:35:01,925 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:35:01,928 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 16:35:02,548 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 16:35:02,632 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:35:02,637 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:35:02,641 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:35:02,646 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:35:02,650 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:35:02,655 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:35:02,661 [INFO ] ? -> ?() Starting spacemesh node..
+2024-07-24 16:38:04,866 [INFO ] ? -> ?() Starting Execution
+2024-07-24 16:38:05,000 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:38:05,004 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 16:38:05,007 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:38:05,010 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 16:38:05,014 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:38:05,018 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 16:38:05,021 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:38:05,025 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 16:38:05,028 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 16:38:05,616 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 16:38:05,700 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:38:05,705 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:38:05,710 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:38:05,714 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:38:05,719 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 16:38:05,724 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 16:38:05,730 [INFO ] ? -> ?() Starting spacemesh node..
+2024-07-24 16:40:22,826 [INFO ] ? -> ?() Started to create postcli file with pid '16886'.
+2024-07-24 16:42:06,437 [INFO ] ? -> ?() Starting spacemesh node..
+2024-07-24 16:44:06,701 [INFO ] ? -> ?() Started to create postcli file with pid '17158'.
+2024-07-24 17:00:46,776 [INFO ] ? -> ?() Starting Execution
+2024-07-24 17:00:46,913 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 17:00:46,917 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 17:00:46,921 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 17:00:46,924 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 17:00:46,927 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 17:00:46,931 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 17:00:46,934 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 17:00:46,937 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 17:00:46,940 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 17:00:47,585 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 17:00:47,715 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 17:00:47,720 [ERROR] ? -> ?() Command 'ls /media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 17:00:47,724 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 17:00:47,729 [ERROR] ? -> ?() Command 'ls /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 17:00:47,734 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-07-24 17:00:47,739 [ERROR] ? -> ?() Command 'ls /media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-24 22:51:18,435 [INFO ] ? -> ?() Starting Execution
+2024-07-24 22:51:51,346 [INFO ] ? -> ?() Starting Execution
+2024-07-24 22:52:22,515 [INFO ] ? -> ?() Starting Execution
+2024-07-24 22:52:25,744 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 22:53:02,847 [INFO ] ? -> ?() Starting Execution
+2024-07-24 22:53:05,369 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 22:53:35,774 [INFO ] ? -> ?() Starting Execution
+2024-07-24 22:53:35,964 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 22:53:43,334 [INFO ] ? -> ?() Starting Execution
+2024-07-24 22:53:43,526 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 22:54:14,380 [INFO ] ? -> ?() Starting Execution
+2024-07-24 22:54:14,614 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 22:55:14,643 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 22:58:26,831 [INFO ] ? -> ?() Starting Execution
+2024-07-24 23:00:22,963 [INFO ] ? -> ?() Starting Execution
+2024-07-24 23:00:44,697 [INFO ] ? -> ?() Starting Execution

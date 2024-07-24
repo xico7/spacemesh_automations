@@ -5,6 +5,8 @@ import subprocess
 import sys
 import time
 import logging
+from typing import Optional, Tuple
+
 import logs
 import requests
 import re
@@ -42,7 +44,7 @@ def get_files_to_create_details(file_path):
         csv_reader = csv.reader(csv_f, delimiter=',')
         next(csv_reader, None)  # skip header
         for i, row in enumerate(csv_reader):
-            files_to_create_details[str(i)] = {'hdd_path': row[0], 'num_units': int(row[1]), 'hdd_file_number': int(row[2])}
+            files_to_create_details[int(i)] = {'hdd_path': row[0], 'num_units': int(row[1]), 'hdd_file_number': int(row[2])}
 
     return files_to_create_details
 
@@ -109,13 +111,16 @@ def check_update_go_spacemesh(go_spacemesh_path):
 
 
 # File can be corrupted, best delete it.
-def delete_last_created_post_file(postdata_folder_path, min_provider_file_count: int, max_provider_file_count: int):
+def delete_last_created_post_file(postdata_folder_path, min_max_provider_file_count: Optional[Tuple] = None):
     postdata_files = []
     files = list_dir_files(postdata_folder_path).split('\n')
     for file in files:
         if "postdata_" in file and ".bin" in file:
             postdata_number = int(file.replace("postdata_", "").replace(".bin", ""))
-            if postdata_number < max_provider_file_count and postdata_number > (min_provider_file_count - 1) :
+            if min_max_provider_file_count:
+                if postdata_number < min_max_provider_file_count(1) and postdata_number > (min_max_provider_file_count(0) - 1) :
+                    postdata_files.append(postdata_number)
+            else:
                 postdata_files.append(postdata_number)
     if postdata_files:
         run_shell_command(f"rm {postdata_folder_path}/postdata_{max(postdata_files)}.bin")
@@ -127,7 +132,7 @@ def delete_last_created_post_file(postdata_folder_path, min_provider_file_count:
 def subprocess_values_as_string(subprocess_values: list):
     values_as_str = ""
     for gpu_value_arg in subprocess_values:
-        values_as_str += gpu_value_arg + ' '
+        values_as_str += str(gpu_value_arg) + ' '
 
     return values_as_str
 
@@ -143,8 +148,14 @@ def get_gpu_ratios(ratios_file_path):
     return ratios
 
 
+def get_providers(postcli_executable_dir):
+    return len([int(provider_id) for provider_id in re.findall(
+        "ID: \(uint32\) (.*),",
+        run_shell_command(f"{postcli_executable_dir}/./postcli -printProviders")) if provider_id != "4294967295"])
+
+
 def create_postcli_file_threads(go_spacemesh_dir, postcli_executable_dir, postcli_file_hdd_path,
-                                postcli_file_num_units, gpu_ratios, hdd_file_count: int):
+                                postcli_file_num_units, hdd_file_count: int, provider):
     def get_base64_from_commitment_atx(commitment_atx):
         return run_shell_command("echo -n '" + commitment_atx + "' | base64 -d | xxd -c 32 -g 32").split(' ')[1]
 
@@ -168,33 +179,7 @@ def create_postcli_file_threads(go_spacemesh_dir, postcli_executable_dir, postcl
 
         os.chdir(postcli_executable_dir)
 
-        postcli_args = ['./postcli', '-provider', '0', '-commitmentAtxId', query_base_64_highest_atx, '-labelsPerUnit',
+        return ['./postcli', '-provider', provider, '-commitmentAtxId', query_base_64_highest_atx, '-labelsPerUnit',
                         '4294967296', '-maxFileSize', '2147483648', '-numUnits', str(postcli_file_num_units),
                         '-datadir', postcli_file_path]
-        postcli_process = subprocess.Popen(postcli_args)
-        time.sleep(20)
-        postcli_process.terminate()
-    else:
-        with open(f"{postcli_file_path}/postdata_metadata.json") as json_f:
-            query_base_64_highest_atx = get_base64_from_commitment_atx(json.loads(json_f.read())['CommitmentAtxId'])
 
-    node_id = run_shell_command(f"cat {postcli_file_path}/identity.key | tail -c 64")
-
-    files_number = postcli_file_num_units * 32
-
-    postcli_popen_values = []
-    init_file = 0
-    for provider, ratio in gpu_ratios.items():
-        if provider == list(gpu_ratios)[-1]:
-            to_file = files_number - 1 # some divisions may fail to have the correct end value.
-        else:
-            to_file = init_file + int(files_number * float(ratio))
-        postcli_popen_values.append(['./postcli', '-provider', provider, '-commitmentAtxId',
-                                     query_base_64_highest_atx,
-                                     '-id', node_id, '-labelsPerUnit', '4294967296', '-maxFileSize', '2147483648',
-                                     '-numUnits', str(postcli_file_num_units),
-                                     '-datadir', postcli_file_path, '-fromFile', str(init_file), '-toFile',
-                                     str(to_file)])
-        init_file = to_file + 1
-
-    return postcli_popen_values
