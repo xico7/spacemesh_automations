@@ -104,8 +104,7 @@ def check_update_go_spacemesh(go_spacemesh_path):
         run_shell_command(f'rm {latest_version}.zip*')
         run_shell_command(f'mkdir  {latest_version}/sm_data')
         run_shell_command("wget configs.spacemesh.network/config.mainnet.json")
-        time.sleep(10)  # Not pretty.. waits for wget to end
-        run_shell_command("mv config.mainnet.json go-spacemesh-v1.6.0-linux-amd64")
+        run_shell_command(f"mv config.mainnet.json {latest_version}")
 
 
 # File can be corrupted, best delete it.

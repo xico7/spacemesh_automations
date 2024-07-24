@@ -23,10 +23,20 @@ def add_tasks_subparsers(parent_parser, tasks):
     subparser.choices['get-gpu-ratios'].add_argument("--dir-path-to-write-ratios", type=str, required=True,
                                                      help="Path where ratios will be stored.")
 
+    subparser.choices['create-postcli-process-file'].add_argument("--hdds-filesystem-drive-letters", type=str, required=True,
+                                                              help="Filesystem drives to scan, "
+                                                                   "separated by ',', i.e. '/dev/sda2, /dev/sdb2'.")
+    subparser.choices['create-postcli-process-file'].add_argument("--number-of-spacemesh-nodes-for-each-drive", type=int,
+                                                                  required=True,
+                                                                  help="Number of spacemesh nodes for each drive, "
+                                                                       "each node generates a folder for postcli data.")
+    subparser.choices['create-postcli-process-file'].add_argument("--write-postfile-details-file-path", type=str, required=True,
+                                                              help="Path of the file where hdd num units details will be written.")
+
     subparser.choices['start-postcli-processes'].add_argument("--go-spacemesh-dir", type=str, required=False,
                                                               help="Directory where go-spacemesh executable is stored.")
     subparser.choices['start-postcli-processes'].add_argument("--postfile-details-file-path", type=str, required=True,
-                                                              help="TODO")
+                                                              help="Path of the file where hdd num units details are stored.")
     subparser.choices['start-postcli-processes'].add_argument("--postcli-executable-dir", type=str,
                                                               help="Path where postcli is stored.")
     subparser.choices['start-postcli-processes'].add_argument("--gpu-ratios-file-path", type=str,

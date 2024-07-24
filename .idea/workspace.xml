@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1aeb942-6745-42fe-9d69-3c4bfd9b474f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tasks/create_postcli_process_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/argparse_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/argparse_func.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py.verbose.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.verbose.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spacemesh_automations.py" beforeDir="false" afterPath="$PROJECT_DIR$/spacemesh_automations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.create_postcli_process_file.executor&quot;: &quot;Run&quot;,
     &quot;Python.get_gpu_ratios.executor&quot;: &quot;Debug&quot;,
     &quot;Python.scratch.executor&quot;: &quot;Debug&quot;,
     &quot;Python.start-postcli-processes.executor&quot;: &quot;Debug&quot;,
@@ -54,6 +58,28 @@
   }
 }</component>
   <component name="RunManager" selected="Python.start-postcli-processes">
+    <configuration name="create_postcli_process_file" type="PythonConfigurationType" factoryName="Python">
+      <module name="spacemesh_automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="create-postcli-process-file --hdds-filesystem-drive-letters &quot;/dev/sdb2, /dev/sdd2, /dev/sdc2, /dev/sde2&quot; --number-of-spacemesh-nodes-for-each-drive 2 --write-postfile-details-file-path $USER_HOME$/postfiles_to_create_details.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="get_gpu_ratios" type="PythonConfigurationType" factoryName="Python">
       <module name="spacemesh_automations" />
       <option name="ENV_FILES" value="" />
@@ -113,7 +139,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="start-postcli-processes --go-spacemesh-dir $USER_HOME$/go-spacemesh/ --postcli-executable-dir $USER_HOME$/postcli --postfile-details-file-path $USER_HOME$/postdata_files_creation.csv --gpu-ratios-file-path $USER_HOME$/ratios.csv" />
+      <option name="PARAMETERS" value="start-postcli-processes --go-spacemesh-dir $USER_HOME$/go-spacemesh/ --postcli-executable-dir $USER_HOME$/postcli --postfile-details-file-path $USER_HOME$/postfiles_to_create_details.csv --gpu-ratios-file-path $USER_HOME$/ratios.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -123,6 +149,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.start-postcli-processes" />
+      <item itemvalue="Python.create_postcli_process_file" />
       <item itemvalue="Python.get_gpu_ratios" />
       <item itemvalue="Python.scratch" />
     </list>
@@ -154,11 +181,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tasks/get_gpu_ratios.py</url>
           <line>13</line>
           <option name="timeStamp" value="13" />
@@ -167,6 +189,21 @@
           <url>file://$PROJECT_DIR$/tasks/get_gpu_ratios.py</url>
           <line>42</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tasks/start_postcli_processes.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
