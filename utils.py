@@ -16,13 +16,6 @@ class NotEnoughSpace(Exception): pass
 
 LOG = logging.getLogger(logs.LOG_BASE_NAME + '.' + __name__)
 
-
-
-def run_spacemesh_automation_process(task_to_run, task_args=[]):
-    use_shell = True
-    subprocess.call([sys.executable, f'{PROGRAM_NAME}.py', task_to_run] + task_args, shell=use_shell)
-
-
 def list_dir_files(dir_path):
     return run_shell_command(f"ls {dir_path}")
 

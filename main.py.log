@@ -10289,3 +10289,21 @@ Saving to: ‘go-spacemesh-v1.5.7-linux-amd64.zip.3’
 2024-07-24 13:15:25,180 [INFO ] ? -> ?() Latest version detected, no need to update.
 2024-07-24 13:15:25,584 [INFO ] ? -> ?() Started to create postcli file with pid '9068'.
 2024-07-24 13:15:25,587 [INFO ] ? -> ?() Started to create postcli file with pid '9072'.
+2024-07-24 23:06:32,130 [INFO ] ? -> ?() Starting Execution
+2024-07-24 23:06:32,294 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 23:08:32,397 [ERROR] ? -> ?() Command 'rm /home/fcs/teste/postdata_0.bin' failed, error message -> 'rm: cannot remove '/home/fcs/teste/postdata_0.bin': No such file or directory
+'.
+2024-07-24 23:11:30,925 [INFO ] ? -> ?() Starting Execution
+2024-07-24 23:11:31,062 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 23:11:31,067 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-07-24 23:11:31,071 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 23:11:31,074 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-07-24 23:11:31,077 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 23:11:31,080 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-07-24 23:11:31,084 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 23:11:31,087 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-07-24 23:11:31,090 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 23:11:31,728 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 23:11:32,065 [INFO ] ? -> ?() Started to create postcli file with pid '20481'.
+2024-07-24 23:11:32,068 [INFO ] ? -> ?() Started to create postcli file with pid '20485'.

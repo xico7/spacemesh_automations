@@ -29,7 +29,7 @@ def get_gpu_ratios(args):
                             '-datadir', args['dir_path_to_write_test_file']]
             postcli_process = subprocess.Popen(postcli_args)
 
-            time.sleep(20)
+            time.sleep(120)
             postcli_process.terminate()
 
             providers_file_size[provider] = int(run_shell_command(
