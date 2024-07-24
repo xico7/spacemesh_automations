@@ -148,10 +148,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.start-postcli-processes" />
       <item itemvalue="Python.create_postcli_process_file" />
       <item itemvalue="Python.get_gpu_ratios" />
       <item itemvalue="Python.scratch" />
+      <item itemvalue="Python.start-postcli-processes" />
     </list>
     <recent_temporary>
       <list>
