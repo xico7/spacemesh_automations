@@ -125,6 +125,16 @@ def subprocess_values_as_string(subprocess_values: list):
     return values_as_str
 
 
+def get_mounted_drives():
+    mounted_drives = []
+    for l in run_shell_command("df -h").split('\n'):
+        drive = l.split(' ')[-1]
+        if '/' in drive:
+            mounted_drives.append(drive)
+
+    return mounted_drives
+
+
 def get_gpu_ratios(ratios_file_path):
     ratios = {}
     with open(ratios_file_path) as csv_f:

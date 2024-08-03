@@ -22,7 +22,15 @@ def add_tasks_subparsers(parent_parser, tasks):
                                                      help="Path where postcli is stored.")
     subparser.choices['get-gpu-ratios'].add_argument("--dir-path-to-write-ratios", type=str, required=True,
                                                      help="Path where ratios will be stored.")
+    subparser.choices['parse-directories-for-nodes'].add_argument("--output-folder-path", type=str,
+                                                                  help="Path where post services portainer yaml config is saved.")
+    subparser.choices['parse-directories-for-nodes'].add_argument("--drives-number", type=int,
+                                                                  help="number of smh nodes each drive has.")
 
+    subparser.choices['print-spacemesh-drives-details']
+    subparser.choices['check-and-print-node-ids'].add_argument("--node-ids-team-24-details-file-path", type=str,
+                                                                  help="Path of the file with team24 node ids.")
+#check-and-print-node-ids --node-ids-team-24-details
     subparser.choices['create-postcli-process-file'].add_argument("--hdds-filesystem-drive-letters", type=str, required=True,
                                                               help="Filesystem drives to scan, "
                                                                    "separated by ',', i.e. '/dev/sda2, /dev/sdb2'.")

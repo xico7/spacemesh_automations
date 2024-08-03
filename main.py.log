@@ -10307,3 +10307,289 @@ Saving to: ‘go-spacemesh-v1.5.7-linux-amd64.zip.3’
 2024-07-24 23:11:31,728 [INFO ] ? -> ?() Latest version detected, no need to update.
 2024-07-24 23:11:32,065 [INFO ] ? -> ?() Started to create postcli file with pid '20481'.
 2024-07-24 23:11:32,068 [INFO ] ? -> ?() Started to create postcli file with pid '20485'.
+2024-07-24 23:15:35,461 [INFO ] ? -> ?() Starting Execution
+2024-07-24 23:16:40,775 [INFO ] ? -> ?() Starting Execution
+2024-07-24 23:16:40,826 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-24 23:16:40,837 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-24 23:16:40,839 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-24 23:16:40,850 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-24 23:16:40,852 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-24 23:16:40,869 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-24 23:16:40,871 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-24 23:16:41,595 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-24 23:16:42,063 [INFO ] ? -> ?() Started to create postcli file with pid '599329'.
+2024-07-25 00:46:49,844 [INFO ] ? -> ?() Starting Execution
+2024-07-25 00:46:49,906 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-25 00:46:49,921 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-25 00:46:49,924 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-25 00:46:49,940 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-25 00:46:49,943 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-25 00:46:49,963 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-25 00:46:49,965 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-25 00:46:50,572 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-25 00:46:51,098 [INFO ] ? -> ?() Started to create postcli file with pid '19451'.
+2024-07-25 09:15:34,945 [INFO ] ? -> ?() Starting Execution
+2024-07-25 09:15:35,033 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-25 09:15:35,049 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-25 09:15:35,051 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-25 09:15:35,066 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-25 09:15:35,069 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-25 09:15:35,084 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-25 09:15:35,086 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-25 09:15:35,775 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-07-25 09:15:39,946 [INFO ] ? -> ?() Started to create postcli file with pid '25731'.
+2024-07-25 21:13:30,646 [INFO ] ? -> ?() Postcli process is in 'zombie' state, assuming it finished creating postdata, going on to the next postdata file if all processes are finished.
+2024-07-25 21:13:30,662 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_07/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_07/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-25 21:13:30,669 [INFO ] ? -> ?() Starting spacemesh node..
+2024-07-25 21:15:50,864 [INFO ] ? -> ?() Started to create postcli file with pid '533543'.
+2024-07-28 13:44:05,051 [INFO ] ? -> ?() Starting Execution
+2024-07-28 13:44:05,109 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-28 13:44:05,123 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_04' for current user (fcs). 
+2024-07-28 13:44:05,125 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-28 13:44:05,180 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_06' for current user (fcs). 
+2024-07-28 13:44:05,182 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-28 13:44:05,194 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_07' for current user (fcs). 
+2024-07-28 13:44:05,196 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-07-28 13:44:06,189 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2024-07-28 13:44:19,138 [INFO ] ? -> ?() Started to create postcli file with pid '43424'.
+2024-07-29 15:56:06,819 [INFO ] ? -> ?() Starting Execution
+2024-07-29 15:56:51,709 [INFO ] ? -> ?() Starting Execution
+2024-07-29 16:02:05,269 [INFO ] ? -> ?() Starting Execution
+2024-07-29 16:05:50,079 [INFO ] ? -> ?() Starting Execution
+2024-07-29 16:07:43,426 [INFO ] ? -> ?() Starting Execution
+2024-07-29 16:07:57,891 [ERROR] ? -> ?() Command 'ls /boot/efi' failed, error message -> 'ls: cannot open directory '/boot/efi': Permission denied
+'.
+2024-07-29 16:08:14,224 [INFO ] ? -> ?() Starting Execution
+2024-07-29 19:15:58,600 [INFO ] ? -> ?() Starting Execution
+2024-07-29 19:16:42,887 [INFO ] ? -> ?() Starting Execution
+2024-07-29 19:17:12,113 [INFO ] ? -> ?() Starting Execution
+2024-07-29 19:17:12,232 [ERROR] ? -> ?() Command '/media/fcs/spacemesh_01/postdata' failed, error message -> '/bin/sh: 1: /media/fcs/spacemesh_01/postdata: Permission denied
+'.
+2024-07-29 19:17:28,984 [INFO ] ? -> ?() Starting Execution
+2024-07-29 19:59:02,487 [INFO ] ? -> ?() Starting Execution
+2024-07-29 20:17:36,814 [INFO ] ? -> ?() Starting Execution
+2024-07-29 20:20:07,493 [INFO ] ? -> ?() Starting Execution
+2024-07-29 20:26:29,184 [INFO ] ? -> ?() Starting Execution
+2024-07-29 21:00:01,140 [INFO ] ? -> ?() Starting Execution
+2024-07-29 21:00:01,272 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_44' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_44': No such file or directory
+'.
+2024-07-29 21:01:46,856 [INFO ] ? -> ?() Starting Execution
+2024-07-29 21:07:45,001 [INFO ] ? -> ?() Starting Execution
+2024-07-29 21:08:38,925 [INFO ] ? -> ?() Starting Execution
+2024-07-29 21:09:18,780 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:35:45,526 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:35:55,811 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:42:57,522 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:43:17,534 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:44:04,346 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:44:20,707 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:46:36,103 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:47:22,230 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:47:22,369 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,406 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_04/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_04/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,420 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,471 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,482 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_06/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_06/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,495 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_07/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_07/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,549 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_03/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_03/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,646 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,749 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_08/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_08/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,762 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_09/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_09/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:22,775 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_11/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_11/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,511 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:47:53,632 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,643 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_04/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_04/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,653 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,698 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,709 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_06/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_06/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,719 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_07/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_07/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,764 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_03/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_03/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,845 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,934 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_08/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_08/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,945 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_09/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_09/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:53,956 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_11/postdata/spacemesh_post_0' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_11/postdata/spacemesh_post_0': No such file or directory
+'.
+2024-07-29 23:47:54,494 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:47:54,526 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:47:54,577 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:47:54,759 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:48:12,975 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:48:17,047 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:48:19,581 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:48:19,609 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:48:19,657 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:48:19,824 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:48:29,927 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:49:13,183 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:49:17,093 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:49:17,145 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:49:17,324 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:49:50,184 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:50:20,784 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:50:46,734 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:51:10,152 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:52:16,863 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:52:26,864 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:52:31,482 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:54:12,658 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:54:28,795 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:54:29,373 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:54:29,402 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:54:29,448 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:54:29,616 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:55:47,741 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:55:48,282 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:55:48,310 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:55:48,360 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:55:48,523 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:22,241 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:56:22,798 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:22,824 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:22,872 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:23,043 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:51,614 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:56:52,140 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:52,169 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:52,214 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:56:52,376 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:57:37,334 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:57:37,948 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:57:37,980 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:57:38,033 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:57:38,219 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-29 23:59:36,203 [INFO ] ? -> ?() Starting Execution
+2024-07-29 23:59:54,359 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:00:00,261 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:00:49,769 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:00:51,979 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-30 00:00:52,010 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-30 00:00:52,060 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-30 00:00:52,228 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-07-30 00:14:35,979 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:14:36,034 [ERROR] ? -> ?() Command 'sudo ls /run/postdata' failed, error message -> 'ls: cannot access '/run/postdata': No such file or directory
+'.
+2024-07-30 00:14:58,804 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:14:58,863 [ERROR] ? -> ?() Command 'sudo blkid tmpfs' failed, error message -> ''.
+2024-07-30 00:15:06,991 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:15:28,323 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:17:27,130 [INFO ] ? -> ?() Starting Execution
+2024-07-30 00:21:42,427 [INFO ] ? -> ?() Starting Execution
+2024-08-03 11:50:12,560 [INFO ] ? -> ?() Starting Execution
+2024-08-03 11:50:45,491 [INFO ] ? -> ?() Starting Execution
+2024-08-03 11:56:45,932 [INFO ] ? -> ?() Starting Execution
+2024-08-03 11:57:19,142 [INFO ] ? -> ?() Starting Execution
+2024-08-03 11:57:21,851 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 11:57:21,871 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 11:57:21,919 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 11:57:22,177 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_05/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_05/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 11:57:34,017 [INFO ] ? -> ?() Starting Execution
+2024-08-03 11:57:34,132 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 11:57:34,149 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 11:57:34,195 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 11:57:34,328 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_05/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_05/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 12:04:14,218 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:04:50,846 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:07:03,424 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:07:23,453 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:07:53,928 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:08:44,393 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:15:45,021 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:15:46,849 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 12:15:46,867 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 12:15:46,916 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 12:15:47,080 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_05/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_05/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-08-03 12:21:51,807 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:21:52,483 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-08-03 12:21:52,546 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-08-03 12:21:52,594 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-08-03 12:21:52,802 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-08-03 12:22:09,521 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:22:37,899 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:23:13,398 [INFO ] ? -> ?() Starting Execution
+2024-08-03 12:23:13,946 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-08-03 12:23:13,976 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-08-03 12:23:14,025 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-08-03 12:23:14,198 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
+'.
