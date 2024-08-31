@@ -47,8 +47,8 @@ def add_tasks_subparsers(parent_parser, tasks):
                                                               help="Path of the file where hdd num units details are stored.")
     subparser.choices['start-postcli-processes'].add_argument("--postcli-executable-dir", type=str,
                                                               help="Path where postcli is stored.")
-    subparser.choices['start-postcli-processes'].add_argument("--gpu-ratios-file-path", type=str,
-                                                              help="Path where gpu ratios are stored.")
+    subparser.choices['start-postcli-processes'].add_argument("--gpu-provider-number", type=str, default="0",
+                                                              help="Postcli GPU provider, defaults to 0 if not provided because it assumes only one GPU is present.")
 
 class InvalidArgumentsProvided(Exception): pass
 

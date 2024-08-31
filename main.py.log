@@ -10593,3 +10593,202 @@ Saving to: ‘go-spacemesh-v1.5.7-linux-amd64.zip.3’
 '.
 2024-08-03 12:23:14,198 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_05/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_05/postdata/spacemesh_post_2': No such file or directory
 '.
+2024-08-29 15:59:07,612 [INFO ] ? -> ?() Starting Execution
+2024-08-29 16:00:31,731 [INFO ] ? -> ?() Starting Execution
+2024-08-29 16:00:31,895 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-08-29 16:00:32,119 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/f4ab1cf8-46a3-490d-9324-60b0c8c957ba' for current user (fcs). 
+2024-08-29 16:00:32,124 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-08-29 16:00:32,340 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b666378e-6aff-494e-b3bc-4d2e85d88c39' for current user (fcs). 
+2024-08-29 16:00:32,345 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-29 16:00:32,640 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-29 16:00:32,644 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-29 16:00:32,868 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-29 16:00:32,871 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-29 16:00:33,583 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2024-08-29 16:00:49,497 [INFO ] ? -> ?() Started to create postcli file with pid '4724'.
+2024-08-29 16:00:49,506 [INFO ] ? -> ?() Started to create postcli file with pid '4730'.
+2024-08-30 13:32:38,368 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:33:37,448 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:33:37,556 [ERROR] ? -> ?() Provided disk doesn't contain the minimum required space for this script to find the num units.
+2024-08-30 13:33:42,869 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:33:44,601 [ERROR] ? -> ?() Provided disk doesn't contain the minimum required space for this script to find the num units.
+2024-08-30 13:34:16,264 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:36:56,966 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:37:41,552 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:37:58,821 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:37:59,119 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:37:59,123 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:37:59,351 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:37:59,354 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:37:59,357 [ERROR] ? -> ?() Command 'touch  /media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a/test_write_permissions' failed, error message -> 'touch: cannot touch '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a/test_write_permissions': Permission denied
+'.
+2024-08-30 13:37:59,357 [ERROR] ? -> ?() Invalid permissions, check if user 'fcs' as write permission in provided directory.
+2024-08-30 13:39:27,141 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:39:34,052 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:39:34,056 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:39:34,060 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:39:34,063 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:39:34,066 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:39:34,085 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:39:34,088 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:39:34,112 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:39:34,117 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:39:34,125 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:39:34,129 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:39:34,142 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:39:43,230 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 13:39:44,043 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 13:45:22,913 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:45:37,211 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:45:37,349 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:45:37,354 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:45:37,357 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:45:37,360 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:45:37,363 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:45:37,366 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:45:37,369 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:45:37,372 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:45:37,374 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:45:37,377 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:45:37,380 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:45:37,383 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:45:37,386 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 13:45:38,108 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 13:51:10,189 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:51:10,330 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:51:10,335 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:51:10,339 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:51:10,342 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:51:10,345 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:51:10,348 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:51:10,352 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:51:10,355 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:51:10,358 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:51:10,361 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:51:10,363 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:51:10,366 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:51:10,369 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 13:51:11,109 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 13:52:24,870 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:52:25,006 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:52:25,009 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:52:25,013 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:52:25,016 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:52:25,020 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:52:25,023 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:52:25,052 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:52:25,055 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:52:25,059 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:52:25,062 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:52:25,066 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:52:25,070 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:52:25,073 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 13:52:25,598 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 13:52:34,928 [INFO ] ? -> ?() Removed postfile with number 1660 because it might have been corrupted since last exit.
+2024-08-30 13:53:23,187 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:53:23,324 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:53:23,329 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:53:23,332 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:53:23,336 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:53:23,339 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:53:23,341 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:53:23,345 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:53:23,348 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:53:23,351 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:53:23,354 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:53:23,356 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:53:23,359 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:53:23,362 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 13:53:24,095 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 13:53:24,237 [INFO ] ? -> ?() Removed postfile with number 1659 because it might have been corrupted since last exit.
+2024-08-30 13:56:44,752 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:56:44,889 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:56:44,894 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-30 13:56:44,898 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:56:44,902 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-30 13:56:44,905 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 13:56:45,557 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 13:56:45,560 [ERROR] ? -> ?() Command 'ls /media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-08-30 13:56:45,568 [INFO ] ? -> ?() Starting spacemesh node..
+2024-08-30 13:57:01,967 [INFO ] ? -> ?() Starting Execution
+2024-08-30 13:57:02,109 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:57:02,114 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 13:57:02,117 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:57:02,120 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 13:57:02,123 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:57:02,126 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 13:57:02,129 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:57:02,132 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 13:57:02,135 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 13:57:02,390 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 13:57:02,762 [INFO ] ? -> ?() Removed postfile with number 1658 because it might have been corrupted since last exit.
+2024-08-30 13:57:02,763 [INFO ] ? -> ?() Started to create postcli file with pid '6131'.
+2024-08-30 13:59:05,917 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-08-30 13:59:05,918 [INFO ] ? -> ?() Started to create postcli file with pid '6389'.
+2024-08-30 14:00:16,888 [INFO ] ? -> ?() Starting Execution
+2024-08-30 14:00:17,073 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 14:00:17,078 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 14:00:17,081 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 14:00:17,086 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 14:00:17,089 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 14:00:17,092 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 14:00:17,096 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 14:00:17,099 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 14:00:17,103 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 14:00:17,775 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 14:00:17,918 [INFO ] ? -> ?() Removed postfile with number 1657 because it might have been corrupted since last exit.
+2024-08-30 14:00:24,511 [INFO ] ? -> ?() Starting Execution
+2024-08-30 14:00:24,665 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 14:00:24,670 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 14:00:24,673 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 14:00:24,676 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 14:00:24,680 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 14:00:24,683 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 14:00:24,687 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 14:00:24,690 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 14:00:24,693 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 14:00:24,946 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 14:00:25,098 [INFO ] ? -> ?() Removed postfile with number 1656 because it might have been corrupted since last exit.
+2024-08-30 14:00:30,229 [INFO ] ? -> ?() Started to create postcli file with pid '6640'.
+2024-08-30 14:01:04,575 [INFO ] ? -> ?() Starting Execution
+2024-08-30 14:01:04,713 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 14:01:04,718 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-30 14:01:04,720 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 14:01:04,723 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-30 14:01:04,727 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 14:01:04,730 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-30 14:01:04,734 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 14:01:04,737 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-30 14:01:04,739 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-30 14:01:05,246 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-30 14:02:26,214 [ERROR] ? -> ?() Command 'rm /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2/postdata_1655.bin' failed, error message -> 'rm: cannot remove '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2/postdata_1655.bin': No such file or directory
+'.
+2024-08-30 14:02:41,171 [ERROR] ? -> ?() Command 'rm /media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2/postdata_546.bin' failed, error message -> 'rm: cannot remove '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93/postdata/spacemesh_post_2/postdata_546.bin': No such file or directory
+'.
+2024-08-30 14:02:47,399 [INFO ] ? -> ?() Removed postfile with number 1655 because it might have been corrupted since last exit.
+2024-08-30 14:02:50,297 [INFO ] ? -> ?() Started to create postcli file with pid '6873'.
+2024-08-31 09:57:37,183 [INFO ] ? -> ?() Finished writing all postcli files to HDDs.
+2024-08-31 09:57:37,274 [INFO ] ? -> ?() Finished writing all postcli files to HDDs.
+2024-08-31 12:01:14,702 [INFO ] ? -> ?() Starting Execution
+2024-08-31 12:01:14,815 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-31 12:01:14,836 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-08-31 12:01:14,840 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-31 12:01:14,842 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-08-31 12:01:14,846 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-31 12:01:15,517 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-31 12:01:15,740 [INFO ] ? -> ?() Removed postfile with number 113 because it might have been corrupted since last exit.
+2024-08-31 12:01:15,741 [INFO ] ? -> ?() Started to create postcli file with pid '3671'.
+2024-08-31 12:01:52,635 [INFO ] ? -> ?() Starting Execution
+2024-08-31 12:01:52,727 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-31 12:01:52,731 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-08-31 12:01:52,734 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-31 12:01:52,737 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-08-31 12:01:52,739 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-31 12:01:52,742 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-08-31 12:01:52,745 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-31 12:01:52,747 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-08-31 12:01:52,750 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-08-31 12:01:53,282 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-08-31 12:01:53,580 [INFO ] ? -> ?() Removed postfile with number 1654 because it might have been corrupted since last exit.
+2024-08-31 12:01:53,580 [INFO ] ? -> ?() Started to create postcli file with pid '3987'.

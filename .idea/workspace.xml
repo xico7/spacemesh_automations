@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1aeb942-6745-42fe-9d69-3c4bfd9b474f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tasks/check_and_print_node_ids.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/parse_directories_for_nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/print_spacemesh_drives_details.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/argparse_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/argparse_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py.verbose.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.verbose.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spacemesh_automations.py" beforeDir="false" afterPath="$PROJECT_DIR$/spacemesh_automations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="a1aeb942-6745-42fe-9d69-3c4bfd9b474f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,17 +34,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.check_and_print_node_ids.executor": "Debug",
-    "Python.create_postcli_process_file.executor": "Run",
+    "Python.create_postcli_process_file.executor": "Debug",
     "Python.get_gpu_ratios.executor": "Debug",
     "Python.parse_directories_for_nodes.executor": "Run",
     "Python.print-spacemesh-drives-details.executor": "Run",
     "Python.print_node_ids.executor": "Run",
     "Python.scratch.executor": "Debug",
-    "Python.start-postcli-processes.executor": "Debug",
+    "Python.start-postcli-processes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/fcs/Desktop/Repos/spacemesh_automations/spacemesh_automations",
+    "last_opened_file_path": "/home/fcs/Desktop/Repos/spacemesh_automations",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -63,7 +53,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.parse_directories_for_nodes">
+  <component name="RunManager" selected="Python.start-postcli-processes">
     <configuration name="check_and_print_node_ids" type="PythonConfigurationType" factoryName="Python">
       <module name="spacemesh_automations" />
       <option name="ENV_FILES" value="" />
@@ -78,7 +68,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="check-and-print-node-ids --node-ids-team-24-details-file-path $PROJECT_DIR$/../../../node_ids_team24.txt" />
+      <option name="PARAMETERS" value="check-and-print-node-ids --node-ids-team-24-details-file-path $USER_HOME$/node_ids_team24.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -100,7 +90,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="create-postcli-process-file --hdds-filesystem-drive-letters &quot;/dev/sdb2, /dev/sdd2, /dev/sdc2, /dev/sde2&quot; --number-of-spacemesh-nodes-for-each-drive 2 --write-postfile-details-file-path $USER_HOME$/postfiles_to_create_details.csv" />
+      <option name="PARAMETERS" value="create-postcli-process-file --hdds-filesystem-drive-letters &quot;/dev/sdi1, /dev/sdh1, /dev/sdf1, /dev/sde2, /dev/sdg1&quot; --number-of-spacemesh-nodes-for-each-drive 2 --write-postfile-details-file-path $USER_HOME$/postfiles_to_create_details.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -144,7 +134,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="parse-directories-for-nodes --output-folder-path $PROJECT_DIR$/../../../portainer_post_services --drives-number 2" />
+      <option name="PARAMETERS" value="parse-directories-for-nodes --output-folder-path $USER_HOME$/portainer_post_services --drives-number 2" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -211,7 +201,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="start-postcli-processes --go-spacemesh-dir $USER_HOME$/go-spacemesh/ --postcli-executable-dir $USER_HOME$/postcli --postfile-details-file-path $USER_HOME$/postdata_files_creation.csv --gpu-ratios-file-path $USER_HOME$/ratios.csv" />
+      <option name="PARAMETERS" value="start-postcli-processes --go-spacemesh-dir $USER_HOME$/go-spacemesh/ --postcli-executable-dir $USER_HOME$/postcli --postfile-details-file-path $USER_HOME$/postcli_files/postfiles_to_create_details_gpu_0.csv --gpu-provider-number 0" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
