@@ -42,5 +42,7 @@ def start_postcli_processes(args):
         while True:
             time.sleep(30)
             if psutil.Process(running_processes_pid).status() == 'zombie':
-                LOG.info("Finished writing all postcli files to HDDs.")
-                exit(1)
+                break
+
+    LOG.info("Finished writing all postcli files to HDDs.")
+    exit(1)

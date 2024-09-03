@@ -10792,3 +10792,25 @@ Saving to: ‘go-spacemesh-v1.5.7-linux-amd64.zip.3’
 2024-08-31 12:01:53,282 [INFO ] ? -> ?() Latest version detected, no need to update.
 2024-08-31 12:01:53,580 [INFO ] ? -> ?() Removed postfile with number 1654 because it might have been corrupted since last exit.
 2024-08-31 12:01:53,580 [INFO ] ? -> ?() Started to create postcli file with pid '3987'.
+2024-09-03 11:07:19,468 [INFO ] ? -> ?() Starting Execution
+2024-09-03 11:07:19,574 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-09-03 11:07:19,598 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/58e458c5-7ea6-4a75-9b9c-5934d63f1515' for current user (fcs). 
+2024-09-03 11:07:19,600 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-09-03 11:07:19,603 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/67a0019f-c3d4-49f1-8aa8-2587c91885b3' for current user (fcs). 
+2024-09-03 11:07:19,605 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-09-03 11:07:20,350 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-09-03 11:07:20,609 [INFO ] ? -> ?() Removed postfile with number 518 because it might have been corrupted since last exit.
+2024-09-03 11:07:20,609 [INFO ] ? -> ?() Started to create postcli file with pid '19192'.
+2024-09-03 11:07:34,172 [INFO ] ? -> ?() Starting Execution
+2024-09-03 11:07:34,266 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-09-03 11:07:34,270 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/30268240-c314-477c-be04-cf5f88f0ea93' for current user (fcs). 
+2024-09-03 11:07:34,273 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-09-03 11:07:34,275 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/b8bc4727-6d9c-467f-b2b0-496426b35aa1' for current user (fcs). 
+2024-09-03 11:07:34,278 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-09-03 11:07:34,280 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/c69b2b75-4860-417a-8051-e1ed21a5060a' for current user (fcs). 
+2024-09-03 11:07:34,283 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-09-03 11:07:34,287 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/602f8607-2cc7-45f3-b4e7-fec4bf15e2ea' for current user (fcs). 
+2024-09-03 11:07:34,290 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-09-03 11:07:34,503 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-09-03 11:07:34,705 [INFO ] ? -> ?() Removed postfile with number 1901 because it might have been corrupted since last exit.
+2024-09-03 11:07:34,706 [INFO ] ? -> ?() Started to create postcli file with pid '19324'.
