@@ -8,7 +8,7 @@ networks:
     external: true"""
 
 post_service_container_portainer = """  post_service$drive_number$node_number:
-    image: spacemeshos/post-service:v0.7.11
+    image: spacemeshos/post-service:v0.8.2
     container_name: post_service$drive_number$node_number
     volumes:
       - $drive_path/postdata/spacemesh_post_$post_number:/postdata

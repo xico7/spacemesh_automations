@@ -10814,3 +10814,274 @@ Saving to: ‘go-spacemesh-v1.5.7-linux-amd64.zip.3’
 2024-09-03 11:07:34,503 [INFO ] ? -> ?() Latest version detected, no need to update.
 2024-09-03 11:07:34,705 [INFO ] ? -> ?() Removed postfile with number 1901 because it might have been corrupted since last exit.
 2024-09-03 11:07:34,706 [INFO ] ? -> ?() Started to create postcli file with pid '19324'.
+2024-09-03 12:27:34,049 [INFO ] ? -> ?() Starting Execution
+2024-09-03 12:27:34,109 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-09-03 12:27:34,111 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-09-03 12:27:34,112 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-09-03 12:27:34,114 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-09-03 12:27:34,115 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-09-03 12:27:34,117 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-09-03 12:27:34,118 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-09-03 12:27:34,120 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-09-03 12:27:34,122 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-09-03 12:27:34,780 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-09-03 12:27:34,823 [INFO ] ? -> ?() Starting spacemesh node..
+2024-09-03 12:29:54,953 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-09-03 12:29:54,954 [INFO ] ? -> ?() Started to create postcli file with pid '1809262'.
+2024-09-16 04:05:09,030 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_14/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_14/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-09-16 04:05:09,061 [INFO ] ? -> ?() Starting spacemesh node..
+2024-09-16 04:07:29,208 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-09-16 04:07:29,209 [INFO ] ? -> ?() Started to create postcli file with pid '2291173'.
+2024-10-03 16:52:06,917 [INFO ] ? -> ?() Starting Execution
+2024-10-03 16:52:07,009 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 16:52:07,020 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 16:52:07,022 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-03 16:52:07,038 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-03 16:52:07,039 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-03 16:52:07,086 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-03 16:52:07,088 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-03 16:52:07,128 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-03 16:52:07,130 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-10-03 16:52:07,794 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2024-10-03 16:52:23,191 [INFO ] ? -> ?() Removed postfile with number 1307 because it might have been corrupted since last exit.
+2024-10-03 16:52:23,191 [INFO ] ? -> ?() Started to create postcli file with pid '53930'.
+2024-10-03 16:53:53,284 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_14/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_14/postdata/spacemesh_post_2': Input/output error
+'.
+2024-10-03 16:55:18,425 [INFO ] ? -> ?() Starting Execution
+2024-10-03 16:55:18,480 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 16:55:18,482 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 16:55:18,484 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-03 16:55:18,485 [ERROR] ? -> ?() Command 'touch  /media/fcs/spacemesh_14/test_write_permissions' failed, error message -> 'touch: cannot touch '/media/fcs/spacemesh_14/test_write_permissions': Input/output error
+'.
+2024-10-03 16:55:18,485 [ERROR] ? -> ?() Invalid permissions, check if user 'fcs' as write permission in provided directory.
+2024-10-03 17:00:06,217 [INFO ] ? -> ?() Starting Execution
+2024-10-03 17:00:06,276 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 17:00:06,293 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 17:00:06,295 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-03 17:00:06,317 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-03 17:00:06,319 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-03 17:00:06,366 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-03 17:00:06,368 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-03 17:00:06,396 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-03 17:00:06,398 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-10-03 17:00:07,099 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-10-03 17:00:07,471 [INFO ] ? -> ?() Removed postfile with number 1307 because it might have been corrupted since last exit.
+2024-10-03 17:00:07,471 [INFO ] ? -> ?() Started to create postcli file with pid '8266'.
+2024-10-03 18:01:28,185 [INFO ] ? -> ?() Starting Execution
+2024-10-03 18:01:28,248 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 18:01:28,250 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-03 18:01:28,252 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-03 18:01:28,254 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-03 18:01:28,256 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-03 18:01:28,258 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-03 18:01:28,259 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-03 18:01:28,261 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-03 18:01:28,263 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-10-03 18:01:28,912 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-10-03 18:01:29,105 [INFO ] ? -> ?() Removed postfile with number 1318 because it might have been corrupted since last exit.
+2024-10-03 18:01:29,106 [INFO ] ? -> ?() Started to create postcli file with pid '54330'.
+2024-10-10 09:11:52,800 [INFO ] ? -> ?() Starting Execution
+2024-10-10 09:11:52,857 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-10 09:11:52,872 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-10-10 09:11:52,874 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-10 09:11:52,899 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-10-10 09:11:52,901 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-10 09:11:52,923 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-10-10 09:11:52,925 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-10 09:11:52,943 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-10-10 09:11:52,945 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-10-10 09:11:53,602 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2024-10-10 09:12:06,121 [INFO ] ? -> ?() Removed postfile with number 3162 because it might have been corrupted since last exit.
+2024-10-10 09:12:06,122 [INFO ] ? -> ?() Started to create postcli file with pid '32269'.
+2024-10-10 20:04:05,353 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_14/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_14/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-10-10 20:04:05,359 [INFO ] ? -> ?() Starting spacemesh node..
+2024-10-10 20:06:25,645 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-10-10 20:06:25,646 [INFO ] ? -> ?() Started to create postcli file with pid '504619'.
+2024-10-22 02:00:30,510 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_13/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_13/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-10-22 02:00:30,537 [INFO ] ? -> ?() Starting spacemesh node..
+2024-10-22 02:02:50,797 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-10-22 02:02:50,798 [INFO ] ? -> ?() Started to create postcli file with pid '3763867'.
+2024-11-01 13:00:48,212 [INFO ] ? -> ?() Starting Execution
+2024-11-01 13:00:48,283 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-11-01 13:00:48,318 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_8' for current user (fcs). 
+2024-11-01 13:00:48,320 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-11-01 13:00:48,343 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_14' for current user (fcs). 
+2024-11-01 13:00:48,345 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-11-01 13:00:48,372 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_13' for current user (fcs). 
+2024-11-01 13:00:48,374 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-01 13:00:48,396 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-01 13:00:48,397 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-11-01 13:00:49,146 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2024-11-01 13:01:02,455 [INFO ] ? -> ?() Removed postfile with number 2773 because it might have been corrupted since last exit.
+2024-11-01 13:01:02,455 [INFO ] ? -> ?() Started to create postcli file with pid '41877'.
+2024-11-01 21:41:58,267 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_13/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_13/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-01 21:41:58,286 [INFO ] ? -> ?() Starting spacemesh node..
+2024-11-01 21:44:18,492 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-11-01 21:44:18,492 [INFO ] ? -> ?() Started to create postcli file with pid '348334'.
+2024-11-11 15:26:54,091 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_15/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_15/postdata/spacemesh_post_1': No such file or directory
+'.
+2024-11-11 15:26:54,108 [INFO ] ? -> ?() Starting spacemesh node..
+2024-11-11 15:29:14,411 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-11-11 15:29:14,412 [INFO ] ? -> ?() Started to create postcli file with pid '1209131'.
+2024-11-16 09:38:13,945 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_15/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_15/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-16 09:38:13,963 [ERROR] ? -> ?() Command 'df -m | grep /media/fcs/spacemesh_15' failed, error message -> ''.
+2024-11-17 12:18:22,547 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:18:36,589 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:19:07,523 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:19:10,526 [ERROR] ? -> ?() Command 'sudo blkid tmpfs' failed, error message -> ''.
+2024-11-17 12:19:49,445 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:19:49,523 [ERROR] ? -> ?() Command 'sudo blkid tmpfs' failed, error message -> ''.
+2024-11-17 12:20:09,235 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:20:13,173 [ERROR] ? -> ?() Command 'sudo blkid tmpfs' failed, error message -> ''.
+2024-11-17 12:20:23,212 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:20:53,905 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:20:59,648 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:21:11,773 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:21:38,734 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:21:44,418 [ERROR] ? -> ?() Command 'sudo blkid efivarfs' failed, error message -> ''.
+2024-11-17 12:21:50,088 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:22:12,078 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:22:25,282 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:22:26,183 [ERROR] ? -> ?() Command 'sudo blkid /media/fcs/spacemesh_13' failed, error message -> ''.
+2024-11-17 12:22:31,982 [INFO ] ? -> ?() Starting Execution
+2024-11-17 12:22:48,900 [INFO ] ? -> ?() Starting Execution
+2024-11-17 13:54:54,111 [INFO ] ? -> ?() Starting Execution
+2024-11-17 13:55:26,707 [INFO ] ? -> ?() Starting Execution
+2024-11-17 13:56:18,311 [INFO ] ? -> ?() Starting Execution
+2024-11-17 13:56:18,365 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-17 13:56:18,382 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-17 13:56:18,384 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-17 13:56:18,395 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-17 13:56:18,397 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-17 13:56:18,411 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-17 13:56:18,413 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-17 13:56:18,493 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-17 13:56:18,495 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_9' for current user (fcs). 
+2024-11-17 13:56:18,497 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_9' for current user (fcs). 
+2024-11-17 13:56:18,499 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-11-17 13:56:19,182 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-11-17 13:56:19,306 [INFO ] ? -> ?() Removed postfile with number 1407 because it might have been corrupted since last exit.
+2024-11-17 13:56:19,306 [INFO ] ? -> ?() Started to create postcli file with pid '68774'.
+2024-11-18 21:41:27,469 [INFO ] ? -> ?() Starting Execution
+2024-11-18 21:44:57,648 [INFO ] ? -> ?() Starting Execution
+2024-11-18 21:45:26,771 [INFO ] ? -> ?() Starting Execution
+2024-11-18 21:45:57,898 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:45:58,007 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:45:58,211 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:45:58,529 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_15/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_15/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:45:58,573 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_25/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_25/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:48:37,394 [INFO ] ? -> ?() Starting Execution
+2024-11-18 21:48:37,913 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:48:37,954 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:48:38,036 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:48:38,189 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_15/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_15/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:48:38,226 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_25/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_25/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:51:43,174 [INFO ] ? -> ?() Starting Execution
+2024-11-18 21:51:43,265 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_01/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-11-18 21:51:43,288 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_0/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-11-18 21:51:43,334 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_02/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-11-18 21:51:43,423 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_15/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_15/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-11-18 21:51:43,448 [ERROR] ? -> ?() Command 'cat /media/fcs/spacemesh_25/postdata/spacemesh_post_2/postdata_metadata.json' failed, error message -> 'cat: /media/fcs/spacemesh_25/postdata/spacemesh_post_2/postdata_metadata.json: No such file or directory
+'.
+2024-11-18 21:53:33,212 [INFO ] ? -> ?() Starting Execution
+2024-11-18 21:53:47,746 [INFO ] ? -> ?() Starting Execution
+2024-11-18 21:53:48,237 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_01/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_01/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:53:48,277 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_0/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_0/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:53:48,361 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_02/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_02/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:53:48,522 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_15/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_15/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-18 21:53:48,559 [ERROR] ? -> ?() Command 'sudo ls /media/fcs/spacemesh_25/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_25/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-20 08:53:09,190 [INFO ] ? -> ?() Starting Execution
+2024-11-20 08:53:09,287 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-20 08:53:09,317 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-20 08:53:09,320 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-20 08:53:09,346 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-20 08:53:09,348 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-20 08:53:09,376 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-20 08:53:09,378 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-20 08:53:09,422 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-20 08:53:09,424 [INFO ] ? -> ?() Checking permission to write in path '/mnt/disk_9' for current user (fcs). 
+2024-11-20 08:53:09,425 [ERROR] ? -> ?() Command 'touch  /mnt/disk_9/test_write_permissions' failed, error message -> 'touch: cannot touch '/mnt/disk_9/test_write_permissions': Permission denied
+'.
+2024-11-20 08:53:09,425 [ERROR] ? -> ?() Invalid permissions, check if user 'fcs' as write permission in provided directory.
+2024-11-20 08:58:09,284 [INFO ] ? -> ?() Starting Execution
+2024-11-20 08:58:19,280 [INFO ] ? -> ?() Starting Execution
+2024-11-20 08:58:19,332 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-20 08:58:19,335 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-20 08:58:19,338 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-20 08:58:19,340 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-20 08:58:19,342 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-20 08:58:19,344 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-20 08:58:19,346 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-20 08:58:19,348 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-20 08:58:19,350 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_27' for current user (fcs). 
+2024-11-20 08:58:19,362 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_27' for current user (fcs). 
+2024-11-20 08:58:19,366 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-11-20 08:58:20,096 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-11-20 08:58:20,138 [INFO ] ? -> ?() Starting spacemesh node..
+2024-11-20 09:00:44,541 [INFO ] ? -> ?() Removed postfile with number 1798 because it might have been corrupted since last exit.
+2024-11-20 09:00:44,542 [INFO ] ? -> ?() Started to create postcli file with pid '1563748'.
+2024-11-20 09:01:14,573 [ERROR] ? -> ?() Command 'ls /media/fcs/spacemesh_15/postdata/spacemesh_post_2' failed, error message -> 'ls: cannot access '/media/fcs/spacemesh_15/postdata/spacemesh_post_2': No such file or directory
+'.
+2024-11-20 09:01:14,606 [INFO ] ? -> ?() Starting spacemesh node..
+2024-11-20 09:03:34,825 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-11-20 09:03:34,826 [INFO ] ? -> ?() Started to create postcli file with pid '1567253'.
+2024-11-20 09:08:39,071 [INFO ] ? -> ?() Starting Execution
+2024-11-20 09:08:39,155 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-20 09:08:39,157 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-20 09:08:39,159 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-20 09:08:39,161 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-20 09:08:39,164 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-20 09:08:39,166 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-20 09:08:39,168 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-20 09:08:39,170 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-20 09:08:39,172 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_27' for current user (fcs). 
+2024-11-20 09:08:39,174 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_27' for current user (fcs). 
+2024-11-20 09:08:39,177 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-11-20 09:08:39,881 [INFO ] ? -> ?() Latest version detected, no need to update.
+2024-11-20 09:09:55,833 [INFO ] ? -> ?() Starting spacemesh node..
+2024-11-20 09:12:30,377 [INFO ] ? -> ?() Removed postfile with number 1797 because it might have been corrupted since last exit.
+2024-11-20 09:12:36,629 [INFO ] ? -> ?() Started to create postcli file with pid '1574750'.
+2024-11-20 09:13:35,082 [INFO ] ? -> ?() Removed postfile with number 0 because it might have been corrupted since last exit.
+2024-11-20 09:13:48,058 [INFO ] ? -> ?() Started to create postcli file with pid '1575648'.
+2024-11-21 18:32:26,734 [INFO ] ? -> ?() Starting Execution
+2024-11-21 18:32:26,872 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-21 18:32:26,891 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_15' for current user (fcs). 
+2024-11-21 18:32:26,895 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-21 18:32:26,920 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_17' for current user (fcs). 
+2024-11-21 18:32:26,924 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-21 18:32:26,969 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_16' for current user (fcs). 
+2024-11-21 18:32:26,973 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-21 18:32:27,007 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_18' for current user (fcs). 
+2024-11-21 18:32:27,014 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_27' for current user (fcs). 
+2024-11-21 18:32:27,020 [INFO ] ? -> ?() Checking permission to write in path '/media/fcs/spacemesh_27' for current user (fcs). 
+2024-11-21 18:32:27,032 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2024-11-21 18:32:27,887 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2024-11-21 18:32:40,271 [INFO ] ? -> ?() Starting spacemesh node..
+2024-11-21 18:35:01,179 [INFO ] ? -> ?() Removed postfile with number 1796 because it might have been corrupted since last exit.
+2024-11-21 18:35:01,180 [INFO ] ? -> ?() Started to create postcli file with pid '72740'.
+2024-11-21 18:35:31,357 [INFO ] ? -> ?() Removed postfile with number 394 because it might have been corrupted since last exit.
+2024-11-21 18:35:31,359 [INFO ] ? -> ?() Started to create postcli file with pid '73459'.
