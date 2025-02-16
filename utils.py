@@ -188,3 +188,11 @@ def create_postcli_file_threads(go_spacemesh_dir, postcli_executable_dir, postcl
                                  '-id', node_id, '-labelsPerUnit', '4294967296', '-maxFileSize', '2147483648',
                                  '-numUnits', str(postcli_file_num_units),
                                  '-datadir', postcli_file_path]
+
+
+def search_files(filename, search_path):
+    result = []
+    for root, dirs, files in os.walk(search_path):
+        if filename in files:
+            result.append(os.path.join(root, filename))
+    return result if result else "File not found"

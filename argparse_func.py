@@ -41,6 +41,11 @@ def add_tasks_subparsers(parent_parser, tasks):
     subparser.choices['create-postcli-process-file'].add_argument("--write-postfile-details-file-path", type=str, required=True,
                                                               help="Path of the file where hdd num units details will be written.")
 
+    subparser.choices['recreate-postcli-process-file'].add_argument("--hdds-filesystem-drive-mounted-point", type=str, required=True,
+                                                              help="Mounted points drives to scan, "
+                                                                   "separated by ',', i.e. '/media/fcs/bbca, /media/fcs/bbcaasdsadsa'.")
+
+
     subparser.choices['start-postcli-processes'].add_argument("--go-spacemesh-dir", type=str, required=False,
                                                               help="Directory where go-spacemesh executable is stored.")
     subparser.choices['start-postcli-processes'].add_argument("--postfile-details-file-path", type=str, required=True,
