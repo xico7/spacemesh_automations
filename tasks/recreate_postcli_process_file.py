@@ -1,7 +1,7 @@
 import json
 import logging
 import logs
-from utils import run_shell_command, CommandFailed, search_files
+from utils import run_shell_command, CommandFailed, search_files, is_finished
 
 LOG = logging.getLogger(logs.LOG_BASE_NAME + '.' + __name__)
 
@@ -28,12 +28,16 @@ def recreate_postcli_process_file(args):
         except CommandFailed as e:
             if 'No such file or directory' in e.args[0]:
                 continue
+            else:
+                raise
 
         for metadata_file_path in search_files("postdata_metadata.json", f"{disk}/postdata"):
+            run_shell_command(f"sudo chown fcs:fcs {metadata_file_path}")
             with open(metadata_file_path) as post_metadata:
                 data = json.loads(post_metadata.read())
 
-            disk_drive_point_num_units.append([metadata_file_path.split('/post')[0], data["NumUnits"], "1" if "_post_1" in metadata_file_path else "2"])
+            if not is_finished(metadata_file_path.split("/postdata_metadata.json")[0], data["NumUnits"]):
+                disk_drive_point_num_units.append([metadata_file_path.split('/post')[0], data["NumUnits"], "1" if "_post_1" in metadata_file_path else "2"])
 
     with open("/home/fcs/postfiles_to_create_details.csv", 'w') as final_post:
         final_post.write("file_path,num_units,hdd_file_count\n")

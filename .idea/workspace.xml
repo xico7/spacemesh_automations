@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1aeb942-6745-42fe-9d69-3c4bfd9b474f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tasks/get_drive_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/get_failing_ids_drive_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/get_mounted_drives_serial_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spacemesh_automations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spacemesh_automations.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py.verbose.log" beforeDir="false" afterPath="$PROJECT_DIR$/main.py.verbose.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spacemesh_automations.py" beforeDir="false" afterPath="$PROJECT_DIR$/spacemesh_automations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/parse_directories_for_nodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/parse_directories_for_nodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/print_spacemesh_drives_details.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/print_spacemesh_drives_details.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/recreate_postcli_process_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/recreate_postcli_process_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +45,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.REcreate_postcli_process_file.executor": "Run",
     "Python.check_and_print_node_ids.executor": "Run",
+    "Python.create_postcli_process_file (1).executor": "Run",
     "Python.create_postcli_process_file.executor": "Run",
+    "Python.get drive info.executor": "Run",
+    "Python.get_failing_ids_drive_data.executor": "Debug",
     "Python.get_gpu_ratios.executor": "Debug",
     "Python.parse_directories_for_nodes.executor": "Run",
     "Python.print-spacemesh-drives-details.executor": "Run",
     "Python.print_node_ids.executor": "Run",
-    "Python.scratch.executor": "Debug",
-    "Python.start-postcli-processes.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.start-postcli-processes.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/fcs/Desktop/Repos/spacemesh_automations",
+    "last_opened_file_path": "/home/fcs/spacemesh_automations",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -60,7 +70,29 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.start-postcli-processes">
+  <component name="RunManager" selected="Python.get_failing_ids_drive_data">
+    <configuration name="REcreate_postcli_process_file" type="PythonConfigurationType" factoryName="Python">
+      <module name="spacemesh_automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="recreate-postcli-process-file --hdds-filesystem-drive-mounted-point &quot;/mnt/spacemesh_00,/mnt/spacemesh_01,/mnt/spacemesh_02,/mnt/spacemesh_03,/mnt/spacemesh_04,/mnt/spacemesh_05,/mnt/spacemesh_06,/mnt/spacemesh_07,/mnt/spacemesh_08,/mnt/spacemesh_09,/mnt/spacemesh_11,/mnt/spacemesh_12,/mnt/spacemesh_13,/mnt/spacemesh_14,/mnt/spacemesh_15,/mnt/spacemesh_16,/mnt/spacemesh_17,/mnt/spacemesh_18,/mnt/spacemesh_19,/mnt/spacemesh_20,/mnt/spacemesh_21,/mnt/spacemesh_22,/mnt/spacemesh_24,/mnt/spacemesh_25,/mnt/spacemesh_23,/mnt/spacemesh_25,/mnt/spacemesh_26,/mnt/spacemesh_27&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="check_and_print_node_ids" type="PythonConfigurationType" factoryName="Python">
       <module name="spacemesh_automations" />
       <option name="ENV_FILES" value="" />
@@ -75,7 +107,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="check-and-print-node-ids --node-ids-team-24-details-file-path $USER_HOME$/node_ids_team24.txt" />
+      <option name="PARAMETERS" value="check-and-print-node-ids --node-ids-team-24-details-file-path $PROJECT_DIR$/../node_ids_team24.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -83,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="create_postcli_process_file" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="create_postcli_process_file (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="spacemesh_automations" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +129,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="create-postcli-process-file --hdds-filesystem-drive-letters &quot;/dev/sdaa2,/dev/sdab2,/dev/sdy2,/dev/sdp1&quot; --number-of-spacemesh-nodes-for-each-drive 2 --write-postfile-details-file-path $USER_HOME$/postfiles_to_create_details_new.csv" />
+      <option name="PARAMETERS" value="create-postcli-process-file --hdds-filesystem-drive-letters &quot;/dev/sdy1&quot; --number-of-spacemesh-nodes-for-each-drive 2 --write-postfile-details-file-path $PROJECT_DIR$/../postfiles_to_create_details_new.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get drive info" type="PythonConfigurationType" factoryName="Python">
+      <module name="spacemesh_automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="get-drive-info" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_failing_ids_drive_data" type="PythonConfigurationType" factoryName="Python">
+      <module name="spacemesh_automations" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="get-failing-ids-drive-data" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -119,7 +195,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="get-gpu-ratios --postcli-executable-dir $USER_HOME$/postcli --dir-path-to-write-test-file $USER_HOME$/teste --dir-path-to-write-ratios $USER_HOME$/ratios.csv" />
+      <option name="PARAMETERS" value="get-gpu-ratios --postcli-executable-dir $PROJECT_DIR$/../postcli --dir-path-to-write-test-file $PROJECT_DIR$/../teste --dir-path-to-write-ratios $PROJECT_DIR$/../ratios.csv" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -141,7 +217,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="parse-directories-for-nodes --output-folder-path $USER_HOME$/portainer_post_services --drives-number 2" />
+      <option name="PARAMETERS" value="parse-directories-for-nodes --output-folder-path $PROJECT_DIR$/../portainer_post_services --drives-number 2" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -180,7 +256,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.10 (spacemesh_automations)" />
+      <option name="SDK_NAME" value="Python 3.12 (spacemesh_automations)" />
       <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -208,7 +284,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="start-postcli-processes --go-spacemesh-dir $USER_HOME$/go-spacemesh/ --postcli-executable-dir $USER_HOME$/postcli --postfile-details-file-path $USER_HOME$/postfiles_to_create_details.csv --gpu-provider-number 0" />
+      <option name="PARAMETERS" value="start-postcli-processes --go-spacemesh-dir $PROJECT_DIR$/../go-spacemesh/ --postcli-executable-dir $PROJECT_DIR$/../postcli --postfile-details-file-path $PROJECT_DIR$/../postfiles_to_create_details.csv --gpu-provider-number 0" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -217,12 +293,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.create_postcli_process_file" />
+      <item itemvalue="Python.REcreate_postcli_process_file" />
+      <item itemvalue="Python.create_postcli_process_file (1)" />
       <item itemvalue="Python.parse_directories_for_nodes" />
       <item itemvalue="Python.print-spacemesh-drives-details" />
       <item itemvalue="Python.check_and_print_node_ids" />
       <item itemvalue="Python.get_gpu_ratios" />
       <item itemvalue="Python.start-postcli-processes" />
+      <item itemvalue="Python.get drive info" />
+      <item itemvalue="Python.get_failing_ids_drive_data" />
       <item itemvalue="Python.scratch" />
     </list>
     <recent_temporary>
@@ -234,7 +313,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
@@ -253,19 +332,29 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="51" />
+          <url>file://$PROJECT_DIR$/tasks/recreate_postcli_process_file.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="52" />
+          <url>file://$PROJECT_DIR$/tasks/print_spacemesh_drives_details.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tasks/start_postcli_processes.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="53" />
+          <url>file://$PROJECT_DIR$/tasks/print_spacemesh_drives_details.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils.py</url>
+          <line>175</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

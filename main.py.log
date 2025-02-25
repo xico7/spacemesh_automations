@@ -11085,3 +11085,264 @@ Saving to: ‘go-spacemesh-v1.5.7-linux-amd64.zip.3’
 2024-11-21 18:35:01,180 [INFO ] ? -> ?() Started to create postcli file with pid '72740'.
 2024-11-21 18:35:31,357 [INFO ] ? -> ?() Removed postfile with number 394 because it might have been corrupted since last exit.
 2024-11-21 18:35:31,359 [INFO ] ? -> ?() Started to create postcli file with pid '73459'.
+2025-02-24 19:54:26,915 [INFO ] ? -> ?() Starting Execution
+2025-02-24 19:56:00,833 [INFO ] ? -> ?() Starting Execution
+2025-02-24 19:56:01,788 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_14/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_14/postdata': No such file or directory
+'.
+2025-02-24 19:56:02,432 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_21/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_21/postdata': Permission denied
+'.
+2025-02-24 19:56:34,399 [INFO ] ? -> ?() Starting Execution
+2025-02-24 19:57:01,790 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_14/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_14/postdata': No such file or directory
+'.
+2025-02-24 19:57:02,102 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_21/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_21/postdata': Permission denied
+'.
+2025-02-24 19:57:14,202 [INFO ] ? -> ?() Starting Execution
+2025-02-24 19:57:14,418 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_14/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_14/postdata': No such file or directory
+'.
+2025-02-24 19:57:14,503 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_21/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_21/postdata': Permission denied
+'.
+2025-02-24 19:58:27,796 [INFO ] ? -> ?() Starting Execution
+2025-02-24 19:58:28,014 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_14/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_14/postdata': No such file or directory
+'.
+2025-02-24 19:58:28,419 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_25/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_25/postdata': No such file or directory
+'.
+2025-02-24 20:02:37,354 [INFO ] ? -> ?() Starting Execution
+2025-02-24 20:02:37,626 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_14/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_14/postdata': No such file or directory
+'.
+2025-02-24 20:02:37,760 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_25/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_25/postdata': No such file or directory
+'.
+2025-02-24 20:02:52,777 [INFO ] ? -> ?() Starting Execution
+2025-02-24 20:04:12,521 [INFO ] ? -> ?() Starting Execution
+2025-02-24 20:06:19,992 [INFO ] ? -> ?() Starting Execution
+2025-02-24 20:27:25,122 [INFO ] ? -> ?() Starting Execution
+2025-02-24 20:27:40,948 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_14/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_14/postdata': No such file or directory
+'.
+2025-02-24 20:27:41,875 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_25/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_25/postdata': No such file or directory
+'.
+2025-02-25 15:13:41,369 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:13:41,444 [ERROR] ? -> ?() Command 'sudo blkid tmpfs' failed, error message -> ''.
+2025-02-25 15:13:48,122 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:28:46,451 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:28:48,880 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_14/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_14/postdata': No such file or directory
+'.
+2025-02-25 15:28:52,996 [ERROR] ? -> ?() Command 'ls -l /mnt/spacemesh_26/postdata' failed, error message -> 'ls: cannot access '/mnt/spacemesh_26/postdata': No such file or directory
+'.
+2025-02-25 15:41:18,556 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:41:18,693 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 15:41:18,715 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 15:41:18,717 [ERROR] ? -> ?() Command 'touch  /mnt/spacemesh_04/test_write_permissions' failed, error message -> 'touch: cannot touch '/mnt/spacemesh_04/test_write_permissions': Permission denied
+'.
+2025-02-25 15:41:18,717 [ERROR] ? -> ?() Invalid permissions, check if user 'fcs' as write permission in provided directory.
+2025-02-25 15:41:55,436 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:41:55,547 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 15:41:55,549 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 15:41:55,765 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 15:41:55,787 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 15:41:55,804 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:41:55,824 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:42:17,858 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:42:17,972 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 15:42:17,974 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 15:42:17,976 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 15:42:17,978 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 15:42:17,980 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:42:17,982 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:42:17,985 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 15:42:18,973 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2025-02-25 15:42:19,841 [ERROR] ? -> ?() Command 'wget https://go-spacemesh-release-builds.spacemesh.network/v1.7.14/go-spacemesh-v1.7.14-linux-amd64.zip' failed, error message -> '--2025-02-25 15:42:18--  https://go-spacemesh-release-builds.spacemesh.network/v1.7.14/go-spacemesh-v1.7.14-linux-amd64.zip
+Resolving go-spacemesh-release-builds.spacemesh.network (go-spacemesh-release-builds.spacemesh.network)... 2606:4700:20::ac43:45ca, 2606:4700:20::681a:a3a, 2606:4700:20::681a:b3a, ...
+Connecting to go-spacemesh-release-builds.spacemesh.network (go-spacemesh-release-builds.spacemesh.network)|2606:4700:20::ac43:45ca|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47090877 (45M) [application/zip]
+go-spacemesh-v1.7.14-linux-amd64.zip: Permission denied
+
+Cannot write to ‘go-spacemesh-v1.7.14-linux-amd64.zip’ (Success).
+'.
+2025-02-25 15:42:50,464 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:42:50,574 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 15:42:50,577 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 15:42:50,579 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 15:42:50,581 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 15:42:50,583 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:42:50,585 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:42:50,588 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 15:42:51,258 [INFO ] ? -> ?() Not the latest version, downloading and unzipping latest go-spacemesh version.
+2025-02-25 15:46:15,507 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:46:15,617 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 15:46:15,619 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 15:46:15,622 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 15:46:15,624 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 15:46:15,626 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:46:15,628 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:46:15,631 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 15:46:16,369 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 15:47:06,454 [INFO ] ? -> ?() Starting Execution
+2025-02-25 15:47:06,565 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 15:47:06,567 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 15:47:06,570 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 15:47:06,572 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 15:47:06,575 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:47:06,577 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 15:47:06,579 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 15:47:15,596 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:12:24,077 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:12:56,356 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:15:21,091 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:15:21,202 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:15:21,205 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:15:21,207 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:15:21,209 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:15:21,211 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:15:21,214 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:17:18,968 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:17:19,079 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:17:19,082 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:17:19,084 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:17:19,086 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:17:19,088 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:17:19,090 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:17:30,810 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:17:30,926 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:17:30,928 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:17:30,930 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:17:30,932 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:17:30,934 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:17:30,936 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:17:30,938 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 16:17:31,775 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:18:24,727 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:18:24,874 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:18:24,877 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:18:24,879 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:18:24,881 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:18:24,883 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:18:24,885 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:18:24,887 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 16:18:25,478 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:19:05,660 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:19:05,774 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:19:05,776 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:19:05,778 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:19:05,780 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:19:05,783 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:19:05,785 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:19:05,787 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 16:19:06,390 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:19:18,415 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:19:18,584 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:19:18,593 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:19:18,599 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:19:18,602 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:19:18,614 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:19:18,621 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:19:18,628 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 16:19:18,913 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:19:35,872 [INFO ] ? -> ?() Removed postfile with number 1222 because it might have been corrupted since last exit.
+2025-02-25 16:19:35,874 [INFO ] ? -> ?() Started to create postcli file with pid '17668'.
+2025-02-25 16:21:44,364 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:21:44,480 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:21:44,483 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:21:44,485 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:21:44,487 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:21:44,489 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:21:44,491 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:21:44,494 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 16:21:45,291 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:21:45,475 [INFO ] ? -> ?() Removed postfile with number 1221 because it might have been corrupted since last exit.
+2025-02-25 16:21:45,475 [INFO ] ? -> ?() Started to create postcli file with pid '17802'.
+2025-02-25 16:30:19,135 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:31:21,590 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:31:21,707 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_26' for current user (fcs). 
+2025-02-25 16:31:22,901 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_26' for current user (fcs). 
+2025-02-25 16:31:22,903 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:31:22,906 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:31:22,908 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:31:22,910 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:31:22,913 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:31:22,915 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:31:22,917 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 16:31:23,617 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:31:23,618 [ERROR] ? -> ?() Command 'ls /mnt/spacemesh_26/postdata/spacemesh_post_1' failed, error message -> 'ls: cannot access '/mnt/spacemesh_26/postdata/spacemesh_post_1': No such file or directory
+'.
+2025-02-25 16:31:39,568 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:31:39,686 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_26' for current user (fcs). 
+2025-02-25 16:31:39,689 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_26' for current user (fcs). 
+2025-02-25 16:31:39,692 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-25 16:31:39,694 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-25 16:31:39,696 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-25 16:31:39,698 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-25 16:31:39,700 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:31:39,702 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-25 16:31:39,704 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-25 16:31:39,952 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-25 16:31:39,958 [INFO ] ? -> ?() Starting spacemesh node..
+2025-02-25 16:33:39,960 [ERROR] ? -> ?() Command 'grpcurl --plaintext -d "{}" localhost:9092 spacemesh.v1.ActivationService.Highest' failed, error message -> '/bin/sh: 1: grpcurl: not found
+'.
+2025-02-25 16:55:58,895 [INFO ] ? -> ?() Starting Execution
+2025-02-25 16:58:42,039 [INFO ] ? -> ?() Starting Execution
+2025-02-25 17:02:02,747 [INFO ] ? -> ?() Starting Execution
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdu2                                114879b6-63c0-4de7-913e-5a3d02c35829     ext4       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdm1                                121a6df1-fc8b-4cf9-ae0d-5c7211fcce25     ext4       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sda1                                150e296e-e03b-40ad-b1cb-463567285674     ext4       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdw1                                247c256a-1738-4a25-b851-ce24c3c8b626     ext4       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdr2                                2cf92d0f-e2bb-4ddf-8898-11b19e32e153     ext4       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdf2                                30268240-c314-477c-be04-cf5f88f0ea93     ext4       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/nvme0n1p1                           3EFE-21EA                                vfat       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdr3                                3d8e9360-44a6-4670-87b1-c695b5bc3d11     ext4       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdt2                                4494985594984B76                         ntfs       
+2025-02-25 17:02:05,414 [INFO ] ? -> ?() /dev/sdq1                                47d6bb7c-b6b0-49e7-ab15-e1b90d5708ff     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdl2                                50166f8e-333f-4fef-b63a-9efc7ef5f391     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdi1                                58e458c5-7ea6-4a75-9b9c-5934d63f1515     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdv1                                5d9dda5d-476a-463f-9ddd-30b90f929fd7     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdp1                                5fe293b8-4419-4657-adc4-e23eab4c1e7d     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sde1                                602f8607-2cc7-45f3-b4e7-fec4bf15e2ea     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdz1                                666b16fb-2712-4743-b6b3-49a35e835fe6     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdb2                                69fcf0b6-a92d-4796-962a-4943e534d936     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/nvme0n1p2                           6f91c415-331d-427e-992e-6c5177de5027     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdaa                                76276163-1498-4304-abb8-066b31f8ccb5     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sds1                                86cbc79f-44ef-4e98-be40-bdffc1600bee     ext4       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdy1                                DEFAECA8FAEC7DE1                         ntfs       
+2025-02-25 17:02:05,415 [INFO ] ? -> ?() /dev/sdj2                                b666378e-6aff-494e-b3bc-4d2e85d88c39     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdc1                                b69e48e3-23bb-4bd3-ae8e-42ae93b42295     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdk2                                b8bc4727-6d9c-467f-b2b0-496426b35aa1     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sds2                                c1ba2035-7823-46f5-a1cc-c79108d3acd3     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdh1                                c69b2b75-4860-417a-8051-e1ed21a5060a     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdd1                                c6bccc7a-0445-4682-9675-28d2a5025cdd     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdo2                                ca313e9f-9f3c-4640-8922-4c61725d79f3     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdx1                                d1813cec-e1cf-4ed6-aea2-26d96d678dab     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdn2                                d873b622-9d3d-400a-98a5-0d2e5a39a70e     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdt1                                ebbd5510-8c8c-4fd0-93a4-5cc3cba58369     ext4       
+2025-02-25 17:02:05,416 [INFO ] ? -> ?() /dev/sdg2                                f4ab1cf8-46a3-490d-9324-60b0c8c957ba     ext4       
+2025-02-25 17:11:37,134 [INFO ] ? -> ?() Starting Execution
+2025-02-25 17:11:39,457 [INFO ] ? -> ?() /dev/sdu2                                114879b6-63c0-4de7-913e-5a3d02c35829     ext4       
+2025-02-25 17:11:39,457 [INFO ] ? -> ?() /dev/sdm1                                121a6df1-fc8b-4cf9-ae0d-5c7211fcce25     ext4       
+2025-02-25 17:11:39,457 [INFO ] ? -> ?() /dev/sda1                                150e296e-e03b-40ad-b1cb-463567285674     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdw1                                247c256a-1738-4a25-b851-ce24c3c8b626     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdr2                                2cf92d0f-e2bb-4ddf-8898-11b19e32e153     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdf2                                30268240-c314-477c-be04-cf5f88f0ea93     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/nvme0n1p1                           3EFE-21EA                                vfat       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdr3                                3d8e9360-44a6-4670-87b1-c695b5bc3d11     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdt2                                4494985594984B76                         ntfs       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdq1                                47d6bb7c-b6b0-49e7-ab15-e1b90d5708ff     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdl2                                50166f8e-333f-4fef-b63a-9efc7ef5f391     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdi1                                58e458c5-7ea6-4a75-9b9c-5934d63f1515     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdv1                                5d9dda5d-476a-463f-9ddd-30b90f929fd7     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sdp1                                5fe293b8-4419-4657-adc4-e23eab4c1e7d     ext4       
+2025-02-25 17:11:39,458 [INFO ] ? -> ?() /dev/sde1                                602f8607-2cc7-45f3-b4e7-fec4bf15e2ea     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdz1                                666b16fb-2712-4743-b6b3-49a35e835fe6     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdb2                                69fcf0b6-a92d-4796-962a-4943e534d936     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/nvme0n1p2                           6f91c415-331d-427e-992e-6c5177de5027     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdaa                                76276163-1498-4304-abb8-066b31f8ccb5     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sds1                                86cbc79f-44ef-4e98-be40-bdffc1600bee     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdy1                                DEFAECA8FAEC7DE1                         ntfs       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdj2                                b666378e-6aff-494e-b3bc-4d2e85d88c39     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdc1                                b69e48e3-23bb-4bd3-ae8e-42ae93b42295     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdk2                                b8bc4727-6d9c-467f-b2b0-496426b35aa1     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sds2                                c1ba2035-7823-46f5-a1cc-c79108d3acd3     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdh1                                c69b2b75-4860-417a-8051-e1ed21a5060a     ext4       
+2025-02-25 17:11:39,459 [INFO ] ? -> ?() /dev/sdd1                                c6bccc7a-0445-4682-9675-28d2a5025cdd     ext4       
+2025-02-25 17:11:39,460 [INFO ] ? -> ?() /dev/sdo2                                ca313e9f-9f3c-4640-8922-4c61725d79f3     ext4       
+2025-02-25 17:11:39,460 [INFO ] ? -> ?() /dev/sdx1                                d1813cec-e1cf-4ed6-aea2-26d96d678dab     ext4       
+2025-02-25 17:11:39,460 [INFO ] ? -> ?() /dev/sdn2                                d873b622-9d3d-400a-98a5-0d2e5a39a70e     ext4       
+2025-02-25 17:11:39,460 [INFO ] ? -> ?() /dev/sdt1                                ebbd5510-8c8c-4fd0-93a4-5cc3cba58369     ext4       
+2025-02-25 17:11:39,460 [INFO ] ? -> ?() /dev/sdg2                                f4ab1cf8-46a3-490d-9324-60b0c8c957ba     ext4       

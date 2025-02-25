@@ -17,7 +17,7 @@ class NotEnoughSpace(Exception): pass
 LOG = logging.getLogger(logs.LOG_BASE_NAME + '.' + __name__)
 
 def list_dir_files(dir_path):
-    return run_shell_command(f"ls {dir_path}")
+    return run_shell_command(f"ls {dir_path}").split('\n')
 
 
 def run_shell_command(command: str):
@@ -82,6 +82,7 @@ def check_permissions(hdd_files_path):
             raise
 
 def check_update_go_spacemesh(go_spacemesh_path):
+    os.makedirs(go_spacemesh_path, exist_ok=True)
     os.chdir(go_spacemesh_path)
     LOG.info(f"Checking if go-spacemesh in path '{go_spacemesh_path}' is the latest.")
     latest_release_page_text = requests.get("https://github.com/spacemeshos/go-spacemesh/releases/latest").text
@@ -105,7 +106,7 @@ def check_update_go_spacemesh(go_spacemesh_path):
 # File can be corrupted, best delete it.
 def delete_last_created_post_file(postdata_folder_path):
     postdata_files = []
-    files = list_dir_files(postdata_folder_path).split('\n')
+    files = list_dir_files(postdata_folder_path)
     for file in files:
         if "postdata_" in file and ".bin" in file:
             postdata_number = int(file.replace("postdata_", "").replace(".bin", ""))
@@ -155,7 +156,15 @@ def create_postcli_file_threads(go_spacemesh_dir, postcli_executable_dir, postcl
     postcli_file_path = f"{postcli_file_hdd_path}/postdata/spacemesh_post_{hdd_file_count}"
     run_shell_command(f"mkdir -p {postcli_file_path}")
 
-    if not "identity.key" in list_dir_files(postcli_file_path):
+    identity_key_exists = False
+    identity_key_file_name = ""
+    for file in list_dir_files(postcli_file_path):
+        if '.key' in file:
+            identity_key_file_name = file
+            identity_key_exists = True
+            break
+
+    if not identity_key_exists:
         for f in os.listdir(go_spacemesh_dir):
             if 'go-spacemesh' in f and '.zip' not in f:
                 os.chdir(f"{go_spacemesh_dir}/{f}")
@@ -182,7 +191,7 @@ def create_postcli_file_threads(go_spacemesh_dir, postcli_executable_dir, postcl
         with open(f"{postcli_file_path}/postdata_metadata.json") as json_f:
             query_base_64_highest_atx = get_base64_from_commitment_atx(json.loads(json_f.read())['CommitmentAtxId'])
 
-    node_id = run_shell_command(f"cat {postcli_file_path}/identity.key | tail -c 64")
+    node_id = run_shell_command(f"cat {postcli_file_path}/{identity_key_file_name if identity_key_file_name else "identity.key"} | tail -c 64")
     return ['./postcli', '-provider', postcli_gpu_provider, '-commitmentAtxId',
                                  query_base_64_highest_atx,
                                  '-id', node_id, '-labelsPerUnit', '4294967296', '-maxFileSize', '2147483648',
@@ -196,3 +205,6 @@ def search_files(filename, search_path):
         if filename in files:
             result.append(os.path.join(root, filename))
     return result if result else "File not found"
+
+def is_finished(dir_path, num_units):
+    return True if len(os.listdir(dir_path)) == num_units * 32 + 2 else False
