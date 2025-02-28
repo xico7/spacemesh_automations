@@ -11382,3 +11382,14 @@ Cannot write to ‘go-spacemesh-v1.7.14-linux-amd64.zip’ (Success).
 2025-02-28 09:37:31,572 [INFO ] ? -> ?() Starting Execution
 2025-02-28 09:38:00,598 [INFO ] ? -> ?() Starting Execution
 2025-02-28 09:38:56,636 [INFO ] ? -> ?() Starting Execution
+2025-02-28 10:44:32,046 [INFO ] ? -> ?() Starting Execution
+2025-02-28 10:44:32,113 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_02' for current user (fcs). 
+2025-02-28 10:44:32,138 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_04' for current user (fcs). 
+2025-02-28 10:44:32,158 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_07' for current user (fcs). 
+2025-02-28 10:44:32,223 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_24' for current user (fcs). 
+2025-02-28 10:44:32,243 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-28 10:44:32,259 [INFO ] ? -> ?() Checking permission to write in path '/mnt/spacemesh_25' for current user (fcs). 
+2025-02-28 10:44:32,260 [INFO ] ? -> ?() Checking if go-spacemesh in path '/home/fcs/go-spacemesh/' is the latest.
+2025-02-28 10:44:33,123 [INFO ] ? -> ?() Latest version detected, no need to update.
+2025-02-28 10:44:33,250 [INFO ] ? -> ?() Removed postfile with number 2005 because it might have been corrupted since last exit.
+2025-02-28 10:44:33,250 [INFO ] ? -> ?() Started to create postcli file with pid '18318'.
