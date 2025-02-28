@@ -45,6 +45,16 @@ def add_tasks_subparsers(parent_parser, tasks):
                                                               help="Mounted points drives to scan, "
                                                                    "separated by ',', i.e. '/media/fcs/bbca, /media/fcs/bbcaasdsadsa'.")
 
+    subparser.choices['query-done-poet-paths'].add_argument("--target-folder-name", type=str, required=True,
+                                                              help="Folders to search for, must be 'spacemesh_post_1' or 'spacemesh_post_2'.")
+
+    subparser.choices['get-poet-service-config-text'].add_argument("--target-folder-name", type=str, required=True,
+                                                              help="Folders to search for, must be 'spacemesh_post_1' or 'spacemesh_post_2'.")
+    subparser.choices['get-poet-service-config-text'].add_argument("--starting-ip", type=int, required=True,
+                                                              help="Starting ip for each run, should be changed so they don't overlap, "
+                                                                   "the second run should be bigger than the first plust amount of folders.")
+    subparser.choices['get-poet-service-config-text'].add_argument("--node-ip", type=str, required=True,
+                                                              help="IP of the node to match with.")
 
     subparser.choices['start-postcli-processes'].add_argument("--go-spacemesh-dir", type=str, required=False,
                                                               help="Directory where go-spacemesh executable is stored.")
